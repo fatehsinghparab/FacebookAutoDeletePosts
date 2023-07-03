@@ -12,5 +12,8 @@ To execute script: <br>
 
 ## Note: 
 * Don't minimize or close / switch browser tab, this will keep rendering new post components and script will keep deleting posts.
-* Note: Script will break, if facebook updates UI
+* Note: Script will break, if facebook updates UI.
 * Adjust variable 'delayInMilli' to tune performance according to your system.
+
+## POC
+![Screenshot 2023-07-03 154614](https://github.com/fatehsinghparab/FacebookAutoDeletePosts/assets/16076933/19c15978-1098-4b69-a151-227bb91f842d)
